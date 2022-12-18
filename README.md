@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/theavnishkumar" target="blank"><img src="https://img.shields.io/twitter/follow/theavnishkumar?logo=twitter&style=for-the-badge" alt="theavnishkumar" /></a> </p>
 
-- 🔭 I’m currently working on **Social Media App with MERN Stack**
+- 🔭 I’m currently working on **Social Media App using MERN Stack**
 
 - 🌱 I’m currently learning **Express js, MongoDB**
 
