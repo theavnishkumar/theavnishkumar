@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, java, javascript**
 
-- 📫 How to reach me **contact@theavnishkumar.in**
+- 📫 How to reach me **hi@ihavetech.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
