@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avnish Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer (MERN Stack) developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theavnishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="theavnishkumar" /> </p>
 
-- 🔭 I’m currently working on [Online Auction System](https://github.com/theavnishkumar/online-auction-system)
+- 🔭 I’m currently working on [Online Auction System](https://github.com/theavnishkumar/online-auction-system): MERN-based app for online bidding.
 
 - 🌱 I’m currently learning **Typescript, React Router Framework**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://ihavetech.com](https://ihavetech.com)
 
-- 💬 Ask me about **React, Node, MongoDD**
+- 💬 Ask me about **React, Node, MongoDB**
 
 - 📫 How to reach me **hi@theavnishkumar.in**
 
