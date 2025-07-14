@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avnish Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer (MERN Stack) developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer (MERN Stack) from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theavnishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="theavnishkumar" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://ihavetech.com](https://ihavetech.com)
 
-- 💬 Ask me about **React, Node, MongoDB**
+- 💬 Ask me about **React, Node, Nestjs**
 
 - 📫 How to reach me **hi@theavnishkumar.in**
 
