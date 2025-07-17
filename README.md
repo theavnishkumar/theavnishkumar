@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://ihavetech.com](https://ihavetech.com)
 
-- 💬 Ask me about **React, Node, Nestjs**
+- 💬 Ask me about **React, Node, Nestjs, Typescript**
 
 - 📫 How to reach me **hi@theavnishkumar.in**
 
