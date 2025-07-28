@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Online Auction System](https://github.com/theavnishkumar/online-auction-system): MERN-based app for online bidding.
 
-- 🌱 I’m currently learning **Typescript, React Router Framework, Spring boot**
+- 🌱 I’m currently learning **Typescript, React Router Framework, Nestjs**
 
 - 👨‍💻 All of my projects are available at [https://theavnishkumar.in](https://theavnishkumar.in)
 
