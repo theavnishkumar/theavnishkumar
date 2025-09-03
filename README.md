@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theavnishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="theavnishkumar" /> </p>
 
-- 🔭 I’m currently working on [Online Auction System](https://github.com/theavnishkumar/online-auction-system): MERN-based app for online bidding, AI Mern Blog (AI ZEN).
+- 🔭 I’m currently working on [Online Auction System](https://github.com/theavnishkumar/online-auction-system): MERN-based app for online bidding.
 
 - 🌱 I’m currently learning **Typescript, React Router Framework, Nestjs**
 
